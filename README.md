@@ -1,1 +1,1 @@
-# Amazon-sagemaker-project
+# AWS-SageMaker
